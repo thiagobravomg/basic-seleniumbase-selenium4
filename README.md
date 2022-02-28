@@ -14,9 +14,9 @@
 <ul>
   <li>Instale o Python na sua máquina.</li>
   <li>Clone o repositório.</li>
-  <li>Instale os `requirements.txt`.</li>
+  <li>Instale os 'requirements.txt'.</li>
   <li>Preencha os campos de testagem no código.</li>
-  <li>Execute os testes com `pytest`.</li>
+  <li>Execute os testes com 'pytest'(leia a documentação para saber mais detalhes de implementação).</li>
 </ul>
 
 <p>Como o SeleniumBase framework você consegue gerar relatórios completos para suas sequências de testes.</p>
